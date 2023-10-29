@@ -1,4 +1,4 @@
-*, *::after, *::before {
+ ,  ::after, *::before {
   box-sizing: border-box;
 }
 
@@ -143,4 +143,4 @@ body {
 
 .winning-message.show {
   display: flex;
-}
+} 
